@@ -1,0 +1,4 @@
+#profile-title: обход белых списков для всех операторов
+#profile-update-interval: 1
+vless://2285c587-67f4-4404-bb78-c91e8e4f5338@95.163.209.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.com&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%231
+vless://2285c587-67f4-4404-bb78-c91e8e4f5338@95.163.209.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=vk.com&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%232
